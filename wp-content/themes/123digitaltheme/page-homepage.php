@@ -20,10 +20,15 @@ get_header(); ?>
 <div class="wrap">
 	<div id="primary" class="content-area">
 		<main id="main" class="site-main" role="main">
-			<div class="test"></div>
-			<div class=""></div>
-			<div class=""></div>
-			<div class=""></div>
+			<div class="test">
+				<h2>What We Do</h2>
+			</div>
+			<div class="">
+			</div>
+			<div class="">
+			</div>
+			<div class="">
+			</div>
 
 		</main><!-- #main -->
 	</div><!-- #primary -->
